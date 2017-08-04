@@ -2,4 +2,4 @@
 
 Analysis using students grades (Bacharelado Tecnologia da Informação at UFRN) in programming subjects. 
 
-Jupyter notebook using pandas, numpy, bokeh. 
+Jupyter notebook using Python3, pandas, numpy, bokeh, non-relational database. 
